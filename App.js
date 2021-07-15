@@ -7,7 +7,7 @@
  */
 
 import React, {useEffect} from 'react';
-import {StyleSheet, Button, View} from 'react-native';
+import {StyleSheet, Button, View, Text} from 'react-native';
 import Crashes from 'appcenter-crashes';
 import Analytics from 'appcenter-analytics';
 
@@ -26,6 +26,7 @@ const App = () => {
 
   return (
     <View style={styles.screen}>
+      <Text>This is feature-1</Text>
       <Button
         style={styles.btn}
         title="Event"
