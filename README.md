@@ -1,4 +1,3 @@
 # ci_cd_test
-[![Build status](https://build.appcenter.ms/v0.1/apps/34ec0f04-0a9a-4970-a267-588ee7d694f0/branches/develop/badge)](https://appcenter.ms)
-
-[![Build status](https://build.appcenter.ms/v0.1/apps/4f3881f3-872f-4ad2-937c-41cd6363282d/branches/develop/badge)](https://appcenter.ms)
+IOS: [![Build status](https://build.appcenter.ms/v0.1/apps/27a1c007-190e-4467-90e7-69dc17172c42/branches/develop/badge)](https://appcenter.ms)
+Android: [![Build status](https://build.appcenter.ms/v0.1/apps/66f4b88b-6d17-49fe-b824-ed6df5f2d94e/branches/develop/badge)](https://appcenter.ms)
